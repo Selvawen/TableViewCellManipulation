@@ -27,7 +27,7 @@ This project is an iOS application that demonstrates advanced manipulation of ta
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Insightful_Inc/Ben_TableViewCellManipulationExercise.git
+   git clone https://github.com/Selvawen/TableViewCellManipulation.git
    ```
 2. **Navigate to the Project Directory**
    ```bash
